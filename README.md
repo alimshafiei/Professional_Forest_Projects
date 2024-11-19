@@ -11,3 +11,4 @@ This philosophy is logical. In this approach, we have two hyperparameters: the n
 In this project, I started with a decision tree algorithm on the sonar dataset. Then, I tried to improve the performance of the decision tree algorithm using usual methods. Next, I improved the model by using a random forest model. The performance of the random forest model indicated better performance. Then, I started improving the model's performance by using the "professional_forest," which clearly indicated better performance than the random forest algorithm. Finally, I tried improving the "professional_forest" performance by fine-tuning the hyperparameters mentioned. It clearly indicates that by fine-tuning hyperparameters, we can achieve higher performance.
 
 I will continue to explore this philosophy in my future projects and try to find different hidden aspects to gain a clear insight into hyperparameter fine-tuning.
+ali.m.shafiei@gmail.com
