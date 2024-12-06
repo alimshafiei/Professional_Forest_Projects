@@ -1,5 +1,7 @@
-Professional-Forest-Project
-Philosophy of Professional Forest
+# Professional-Forest-Project
+
+# Philosophy of Professional Forest
+
 In the world of machine learning, we use different algorithms for prediction, each with its own benefits, usage, and performance. Each algorithm can be enhanced in various ways. For example, a decision tree can be powered up by a random forest algorithm. The philosophy behind the random forest is: "Wisdom is in society." A random forest is a society based on decision trees as its members. Trees are created based on features, and we can create an astronomical number of trees. To use this algorithm, there are several ways to create random trees. The key is to create good trees using approaches such as pruning, etc.
 
 During the training phase of the random forest model, all trees are trained on a specific task, and in the predicting mode, the final prediction is based on the voting of the society.
