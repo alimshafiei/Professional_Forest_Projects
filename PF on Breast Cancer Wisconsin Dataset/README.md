@@ -67,3 +67,9 @@ The PF approach with 50 trees from a primary forest of 4000 maintains high perfo
 ## Final Conclusion
 By using the Professional Forest approach, we can create "tiny", "impactful", "robust", and "very fast" models without needing to use GridSearch CV.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## © 2024 Ali M Shafiei. All rights reserved.
+
+
