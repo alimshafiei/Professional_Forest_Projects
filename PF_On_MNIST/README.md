@@ -1,7 +1,5 @@
 # PF_On_MNIST
 
-# PF_On_MNIST
-
 ## Project Description
 This project presents an innovative approach for creating robust and compact Professional Forest (PF) models that achieve world-class performance on the MNIST dataset by combining Convolutional Neural Networks (CNN) and PF methodologies. The goal is to demonstrate how we can build efficient, scalable, and high-performing models with fewer trees, making them suitable for applications such as IoT devices.
 
