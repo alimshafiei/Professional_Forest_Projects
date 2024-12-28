@@ -187,6 +187,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 For any questions or inquiries, please contact:
 
-Ali M Shafiei: your-email@example.com
+Ali M Shafiei:ali.m.shafiei@gmail.com
 
 
