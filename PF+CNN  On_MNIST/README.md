@@ -77,7 +77,7 @@ Explore the performance of PF models with 75, 50, 25, 10, and 5 trees.
 Results
 Our results demonstrate the effectiveness of combining CNNs with ensemble methods:
 
-CNN + RF (100 Trees):
+### CNN + RF (100 Trees):
 
 Accuracy: 99.05%
 
@@ -87,7 +87,7 @@ Recall: 99.03%
 
 F1 Score: 99.04%
 
-CNN + RF + RandomizedSearchCV:
+### CNN + RF + RandomizedSearchCV:
 
 Accuracy: 99.01%
 
@@ -109,7 +109,7 @@ Recall: 99.03%
 
 F1 Score: 99.04%
 
-CNN + PF (75 Trees):
+### CNN + PF (75 Trees):
 
 Accuracy: 99.03%
 
@@ -119,7 +119,7 @@ Recall: 99.01%
 
 F1 Score: 99.02%
 
-CNN + PF (50 Trees):
+### CNN + PF (50 Trees):
 
 Accuracy: 99.05%
 
@@ -129,7 +129,7 @@ Recall: 99.03%
 
 F1 Score: 99.04%
 
-CNN + PF (25 Trees):
+### CNN + PF (25 Trees):
 
 Accuracy: 99.04%
 
@@ -139,7 +139,7 @@ Recall: 99.02%
 
 F1 Score: 99.03%
 
-CNN + PF (10 Trees):
+### CNN + PF (10 Trees):
 
 Accuracy: 99.02%
 
@@ -149,7 +149,7 @@ Recall: 99.01%
 
 F1 Score: 99.01%
 
-CNN + PF (5 Trees):
+### CNN + PF (5 Trees):
 
 Accuracy: 99.00%
 
